@@ -1,6 +1,6 @@
 # Docker Help
 
-### Перейти в консоль контейнера
+Перейти в консоль контейнера
 ```
 docker exec -it wireguard /bin/bash
 ```
